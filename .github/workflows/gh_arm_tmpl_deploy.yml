@@ -1,4 +1,4 @@
-name: Azure ARM
+name: Azure ARM Deployment
 on: 
   push:
     branches: [ ARMDPL ]
